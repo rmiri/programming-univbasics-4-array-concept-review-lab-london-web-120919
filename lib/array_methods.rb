@@ -9,6 +9,7 @@ end
 
 def find_max_value(array)
   # Add your solution here
+  array = = %w(array)
   puts array.max
 end
 
