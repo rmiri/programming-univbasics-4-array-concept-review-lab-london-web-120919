@@ -1,10 +1,10 @@
 def find_element_index(array, value_to_find)
   # Add your solution here
   array.length.times { |value_to_find|
-    a.index("b") 
+    a.index("b")
     puts array.index(value_to_find)
   }
-  
+
 end
 
 def find_max_value(array)
